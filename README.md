@@ -14,6 +14,8 @@ pip install djan
 
 
 
+
+
 pip install virtualenv
 
 django-admin startproject mysite .
@@ -21,3 +23,5 @@ django-admin startproject mysite .
 como correrlo
 
 python manage.py runserver 3000
+
+
